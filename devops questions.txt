@@ -1,0 +1,12 @@
+how many reposirities in maven
+what is the path in local system for the downloaded plugins
+what is archetype
+what is aritifactor
+
+
+difference between git pull and git fetch
+what is difference between git merge and git merge
+what is git revert the command and process
+git stash
+git stash pop
+command to checkout to a new branch
